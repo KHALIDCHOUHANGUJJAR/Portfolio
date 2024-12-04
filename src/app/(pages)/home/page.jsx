@@ -52,7 +52,7 @@ const Home = ({ isdisplay }) => {
               </p>
               <br />
               <h1 className="text-xl transform hover:backdrop-hue-rotate-60 md:text-3xl font-bold text-center lg:text-left">
-                "Full Stack Developer @Khalidchouhan | building refactornow.dev"
+                Full Stack Developer @Khalidchouhan | building refactornow.dev
               </h1>
               <div className="flex flex-col gap-4 mt-4 font-bold">
                 <div>
